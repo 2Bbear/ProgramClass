@@ -16,6 +16,9 @@
     <Filter Include="001">
       <UniqueIdentifier>{de5c31a6-8160-4b50-8e6d-32ae92ad67f1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="변수와자료형">
+      <UniqueIdentifier>{dce8dea3-108b-43b6-9c4b-2c404a9a5d0a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyMain.cpp">
@@ -23,6 +26,9 @@
     </ClCompile>
     <ClCompile Include="001.cpp">
       <Filter>001</Filter>
+    </ClCompile>
+    <ClCompile Include="VariableAndTypes.cpp">
+      <Filter>변수와자료형</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
