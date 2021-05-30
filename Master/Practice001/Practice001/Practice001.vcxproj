@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="001.cpp" />
+    <ClCompile Include="002.cpp" />
     <ClCompile Include="MyMain.cpp" />
     <ClCompile Include="VariableAndTypes.cpp" />
   </ItemGroup>
