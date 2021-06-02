@@ -22,6 +22,9 @@
     <Filter Include="002">
       <UniqueIdentifier>{c1e45e13-dca7-492e-a95c-2323f8da6880}</UniqueIdentifier>
     </Filter>
+    <Filter Include="0602PointerClass">
+      <UniqueIdentifier>{10ef86bf-3849-4220-a998-89c36e20d78d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="MyMain.cpp">
@@ -35,6 +38,9 @@
     </ClCompile>
     <ClCompile Include="002.cpp">
       <Filter>002</Filter>
+    </ClCompile>
+    <ClCompile Include="소스.cpp">
+      <Filter>0602PointerClass</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

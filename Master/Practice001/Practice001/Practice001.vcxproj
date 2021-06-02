@@ -143,6 +143,7 @@
     <ClCompile Include="002.cpp" />
     <ClCompile Include="MyMain.cpp" />
     <ClCompile Include="VariableAndTypes.cpp" />
+    <ClCompile Include="소스.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

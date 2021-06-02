@@ -1,2 +1,3 @@
 ﻿  MyMain.cpp
+E:\GitHub\ProgramClass\Master\Practice001\Practice001\MyMain.cpp(10,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
   Practice001.vcxproj -> E:\GitHub\ProgramClass\Master\Practice001\Debug\Practice001.exe
