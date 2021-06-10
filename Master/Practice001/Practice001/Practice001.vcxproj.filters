@@ -39,8 +39,5 @@
     <ClCompile Include="002.cpp">
       <Filter>002</Filter>
     </ClCompile>
-    <ClCompile Include="소스.cpp">
-      <Filter>0602PointerClass</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>

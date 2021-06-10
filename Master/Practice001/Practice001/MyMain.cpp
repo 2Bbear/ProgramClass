@@ -2,11 +2,14 @@
 
 
 
+
+
 int main( )
 {
-	int myAge = 10;
-	int* ptInt = &myAge;
+	char chArr[10] = "123456789";
+	int* sum = (int*)chArr;
+	std::cout << sum << std::endl;
+	std::cout<< *((char*)(sum + 1)) << std::endl;
 
-	printf("%d", ptInt);
 	return 0;
 }
